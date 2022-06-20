@@ -1,2 +1,2 @@
-# leet-solutions
-This is a repository of my leet code submissions
+#algorithms
+This repository contains algorithms I wrote on sites like freeCodeCamp, LeetCode and HackerRank 
