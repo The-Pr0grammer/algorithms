@@ -10,7 +10,7 @@
  */
 
  var isPalindrome = function(x) {    
-    let palindrome = true;
+    let palindrome = true; 
     
     if (x < 0 ){return false}
     
